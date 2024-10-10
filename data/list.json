@@ -1,0 +1,93 @@
+[
+    {
+        "id": "1",
+        "name": "Cà Phê Sữa Đá",
+        "price": "20,000 VND",
+        "des": "Cà phê đen pha với sữa đặc và đá, tạo nên một thức uống ngọt ngào và mát lạnh.",
+        "uri": "https://bizweb.dktcdn.net/100/339/225/files/cafe-sua-da-ngon.jpg?v=1642996108740"
+    },
+    {
+        "id": "2",
+        "name": "Cà Phê Đen",
+        "price": "15,000 VND",
+        "des": "Cà phê đen pha phin truyền thống, hương vị đậm đà và thơm ngon.",
+        "uri": "https://bizweb.dktcdn.net/100/339/225/files/cafe-sua-da-ngon.jpg?v=1642996108740"
+    },
+    {
+        "id": "3",
+        "name": "Cà Phê Đen Sữa",
+        "price": "22,000 VND",
+        "des": "Cà phê đen pha với sữa đặc, tạo sự hòa quyện giữa vị đắng và vị ngọt.",
+        "uri": "https://bizweb.dktcdn.net/100/339/225/files/cafe-sua-da-ngon.jpg?v=1642996108740"
+    },
+    {
+        "id": "4",
+        "name": "Cà Phê Trứng",
+        "price": "25,000 VND",
+        "des": "Cà phê hòa quyện với trứng đánh bông, có vị béo ngậy và thơm ngon đặc biệt.",
+        "uri": "https://bizweb.dktcdn.net/100/339/225/files/cafe-sua-da-ngon.jpg?v=1642996108740"
+    },
+    {
+        "id": "5",
+        "name": "Cà Phê Dừa",
+        "price": "23,000 VND",
+        "des": "Cà phê pha với nước dừa và đá, tạo ra một hương vị mới lạ, vừa béo vừa mát.",
+        "uri": "https://bizweb.dktcdn.net/100/339/225/files/cafe-sua-da-ngon.jpg?v=1642996108740"
+    },
+    {
+        "id": "6",
+        "name": "Cà Phê Nóng",
+        "price": "18,000 VND",
+        "des": "Cà phê được pha nóng, thích hợp cho những ngày trời lạnh, giữ được hương vị nguyên chất.",
+        "uri": "https://bizweb.dktcdn.net/100/339/225/files/cafe-sua-da-ngon.jpg?v=1642996108740"
+    },
+    {
+        "id": "7",
+        "name": "Cà Phê Đen Vỉa Hè",
+        "price": "17,000 VND",
+        "des": "Cà phê đen truyền thống, thường được bán tại các quán vỉa hè với giá phải chăng.",
+        "uri": "https://bizweb.dktcdn.net/100/339/225/files/cafe-sua-da-ngon.jpg?v=1642996108740"
+    },
+    {
+        "id": "8",
+        "name": "Cà Phê Sữa Nóng",
+        "price": "21,000 VND",
+        "des": "Cà phê đen pha với sữa đặc, phục vụ nóng để giữ được hương vị thơm ngon.",
+        "uri": "https://bizweb.dktcdn.net/100/339/225/files/cafe-sua-da-ngon.jpg?v=1642996108740"
+    },
+    {
+        "id": "9",
+        "name": "Cà Phê Sữa Tươi",
+        "price": "24,000 VND",
+        "des": "Cà phê kết hợp với sữa tươi thay vì sữa đặc, có vị nhẹ nhàng hơn.",
+        "uri": "https://bizweb.dktcdn.net/100/339/225/files/cafe-sua-da-ngon.jpg?v=1642996108740"
+    },
+    {
+        "id": "10",
+        "name": "Cà Phê Kem",
+        "price": "26,000 VND",
+        "des": "Cà phê pha với kem tươi, tạo ra hương vị ngọt ngào và béo ngậy.",
+        "uri": "https://bizweb.dktcdn.net/100/339/225/files/cafe-sua-da-ngon.jpg?v=1642996108740"
+    },
+    {
+        "id": "11",
+        "name": "Cà Phê Sữa Đá Lạnh",
+        "price": "21,000 VND",
+        "des": "Cà phê sữa đá nhưng được thêm đá lạnh hơn để làm mát trong những ngày hè nóng bức.",
+        "uri": "https://bizweb.dktcdn.net/100/339/225/files/cafe-sua-da-ngon.jpg?v=1642996108740"
+    },
+    {
+        "id": "12",
+        "name": "Cà Phê Moka",
+        "price": "25,000 VND",
+        "des": "Cà phê với hương vị moka đặc biệt, thường pha chế với sữa và tạo ra hương thơm quyến rũ.",
+        "uri": "https://bizweb.dktcdn.net/100/339/225/files/cafe-sua-da-ngon.jpg?v=1642996108740"
+    },
+    {
+        "id": "13",
+        "name": "Cà Phê Latte",
+        "price": "28,000 VND",
+        "des": "Cà phê espresso pha với sữa nóng và một lớp bọt sữa mỏng trên cùng, vị nhẹ nhàng và béo.",
+        "uri": "https://bizweb.dktcdn.net/100/339/225/files/cafe-sua-da-ngon.jpg?v=1642996108740"
+    }
+]
